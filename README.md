@@ -3,7 +3,7 @@ This was my second excersise working with and creating elements in the DOM. I ha
 ## How to get started
 clonefiles 
 - Index.html
-- Eyes.js
+- eyes.js
 - styles.css
 ## Future improvements
 - would like to add eylashes to make the eyes blink
