@@ -10,6 +10,9 @@ clonefiles
 - to center the eyes
 - create a face 
 #
+# Live repo
+- <a href="http://127.0.0.1:5500/pman.html">Pacman game</a>
+#
 MIT License
 
 Copyright (c) 2021 Renard Lomax
