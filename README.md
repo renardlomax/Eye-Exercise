@@ -11,7 +11,7 @@ clonefiles
 - create a face 
 #
 # Live repo
-- <a href="http://127.0.0.1:5500/eyes.html">Pacman game</a>
+- <a href="http://127.0.0.1:5500/eyes.html"> Eyes</a>
 #
 MIT License
 
