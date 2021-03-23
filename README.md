@@ -7,7 +7,7 @@ Clone/Download Files
 - eyes.js
 - styles.css
 ## Future improvements
-- would like to add eylashes to make the eyes blink
+- would like to add eyelashes to make the eyes blink
 - to center the eyes
 - create a face 
 #
