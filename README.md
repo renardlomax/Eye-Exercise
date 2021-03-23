@@ -1,7 +1,8 @@
 # Eyes Movement Exercise
-This was my second excersise working with and creating elements in the DOM. I had to create two eyes and two pupils that were controlled  by the mouse. I had to write logic to make the eyes functional. 
+This was my second excersise working with and creating elements inside the webpage. I had to create two eyes and two pupils that were controlled  by the mouse. I had to write logic to make the eyes functional. 
 ## How to get started
-clonefiles 
+Clone/Download Files
+#
 - Index.html
 - eyes.js
 - styles.css
@@ -10,7 +11,7 @@ clonefiles
 - to center the eyes
 - create a face 
 #
-# Live repo
+# Demo
 - <a href="http://127.0.0.1:5500/eyes.html"> Eyes</a>
 #
 MIT License
