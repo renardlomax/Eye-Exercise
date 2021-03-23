@@ -12,7 +12,7 @@ Clone/Download Files
 - create a face 
 #
 # Demo
-- <a href="http://127.0.0.1:5500/eyes.html"> Eyes</a>
+- <a href="https://renardlomax.github.io/Eye-Exercise/"> Eyes</a>
 #
 MIT License
 
