@@ -1,16 +1,18 @@
-# Eyes Movement Exercise
-This was my second excersise working with and creating elements inside the webpage. I had to create two eyes and two pupils that were controlled  by the mouse. I had to write logic to make the eyes functional. 
-## How to get started
-Clone/Download Files
-#
-- Index.html
+# Eye Movement Exercise
+This was my second exercise working with and creating elements inside the webpage. I had to create two eyes and two pupils that were controlled by the mouse. I had to write logic to make the eyes functional. 
+## How To Run
+Clone/download the following files:
+
+- index.html
 - eyes.js
 - styles.css
-## Future improvements
-- would like to add eyelashes to make the eyes blink
-- to center the eyes
-- create a face 
-#
+
+Once the files are downloaded, drag the index.html file onto your browser window. You should see the eyes on the screen. When you move the mouse, the eyes should move.
+## Future Improvements
+- I would like to add eyelashes and make the eyes blink.
+- I would like to center the eyes.
+- I would like to create a full face.
+
 # Demo
 - <a href="https://renardlomax.github.io/Eye-Exercise/"> Eyes</a>
 #
